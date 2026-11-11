@@ -1,0 +1,75 @@
+[
+  {
+    "id": "u_admin_001",
+    "username": "SuperAdmin",
+    "role": "admin",
+    "profileKey": "FOX-ADM-9999-SUPER",
+    "passwordHash": "admin123",
+    "avatar": "assets/icon.png",
+    "xp": 60,
+    "unlockedAvatars": [
+      "assets/icon.png",
+      "assets/avatar_fox_crown.png"
+    ]
+  },
+  {
+    "id": "u_user_001",
+    "username": "AlexFox",
+    "role": "user",
+    "profileKey": "FOX-USR-1001-KEY",
+    "passwordHash": "pass123",
+    "avatar": "assets/icon.png",
+    "xp": 0,
+    "unlockedAvatars": [
+      "assets/icon.png"
+    ]
+  },
+  {
+    "id": "u_user_002",
+    "username": "ElenaCoder",
+    "role": "user",
+    "profileKey": "FOX-USR-1002-KEY",
+    "passwordHash": "pass123",
+    "avatar": "assets/icon.png",
+    "xp": 0,
+    "unlockedAvatars": [
+      "assets/icon.png"
+    ]
+  },
+  {
+    "id": "u_user_003",
+    "username": "MarcoDev",
+    "role": "user",
+    "profileKey": "FOX-USR-1003-KEY",
+    "passwordHash": "pass123",
+    "avatar": "assets/icon.png",
+    "xp": 0,
+    "unlockedAvatars": [
+      "assets/icon.png"
+    ]
+  },
+  {
+    "id": "u_user_004",
+    "username": "FoxMaster",
+    "role": "user",
+    "profileKey": "FOX-USR-1004-KEY",
+    "passwordHash": "pass123",
+    "avatar": "assets/icon.png",
+    "xp": 0,
+    "unlockedAvatars": [
+      "assets/icon.png"
+    ]
+  },
+  {
+    "id": "u_user_005",
+    "username": "StudentUPO",
+    "role": "user",
+    "profileKey": "FOX-USR-1005-KEY",
+    "passwordHash": "pass123",
+    "avatar": "assets/icon.png",
+    "xp": 0,
+    "unlockedAvatars": [
+      "assets/icon.png"
+    ]
+  }
+]

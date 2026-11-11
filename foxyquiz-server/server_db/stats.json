@@ -1,0 +1,30 @@
+{
+  "FOX-ADM-9999-SUPER": {
+    "totalQuizzes": 0,
+    "correctAnswers": 0,
+    "it_arch_01": {
+      "attempts": 7,
+      "correct": 6
+    }
+  },
+  "FOX-USR-1001-KEY": {
+    "totalQuizzes": 0,
+    "correctAnswers": 0
+  },
+  "FOX-USR-1002-KEY": {
+    "totalQuizzes": 0,
+    "correctAnswers": 0
+  },
+  "FOX-USR-1003-KEY": {
+    "totalQuizzes": 0,
+    "correctAnswers": 0
+  },
+  "FOX-USR-1004-KEY": {
+    "totalQuizzes": 0,
+    "correctAnswers": 0
+  },
+  "FOX-USR-1005-KEY": {
+    "totalQuizzes": 0,
+    "correctAnswers": 0
+  }
+}

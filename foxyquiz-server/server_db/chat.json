@@ -1,0 +1,42 @@
+[
+  {
+    "id": "msg_1793718788834_0r58",
+    "userId": "anon",
+    "username": "Гость",
+    "role": "user",
+    "text": "Привет",
+    "timestamp": "2026-11-03T15:13:08.834Z"
+  },
+  {
+    "id": "msg_1793718793900_fuws",
+    "userId": "anon",
+    "username": "Гость",
+    "role": "user",
+    "text": "Как дела?",
+    "timestamp": "2026-11-03T15:13:13.900Z"
+  },
+  {
+    "id": "msg_1793723560903_gd61",
+    "userId": "u_admin",
+    "username": "Admin_Fox",
+    "role": "admin",
+    "text": "Привет",
+    "timestamp": "2026-11-03T16:32:40.903Z"
+  },
+  {
+    "id": "msg_1793726685326_l1je",
+    "userId": "u_1",
+    "username": "Student_Alpha",
+    "role": "user",
+    "text": "Привет!",
+    "timestamp": "2026-11-03T17:24:45.326Z"
+  },
+  {
+    "id": "msg_1794328010815_vgx4",
+    "userId": "u_admin",
+    "username": "Admin_Fox",
+    "avatar": "assets/icon.png",
+    "text": "Ciao! )",
+    "timestamp": "2026-11-10T16:26:50.815Z"
+  }
+]
